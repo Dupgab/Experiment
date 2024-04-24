@@ -1,4 +1,4 @@
-date,DESCRIPTION,tissue,ENA-CHECKLIST,location,age,health state,symptoms,disease outcome,sex,host common name,tax_id,scientific_name,virus_identifier,configuration,host subject id
+Date,DESCRIPTION,tissue,ENA-CHECKLIST,location,age,health state,symptoms,disease outcome,sex,host common name,tax_id,scientific_name,virus_identifier,configuration,host subject id
 31 March,Original sequences from laryngopharynx swab,laryngopharynx,ERC000033,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,female,human,2697049,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2,PE300_COVseq,OAS-1
 32 March,Original sequences from laryngopharynx swab,laryngopharynx,ERC000033,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,female,human,2697049,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2,PE150_COVseq,OAS-1
 33 March,Original sequences from laryngopharynx swab,laryngopharynx,ERC000033,"Italy, Turin, Nizza Millefonti",48,ill,"fever, sore throat",dead,female,human,2697049,Severe acute respiratory syndrome coronavirus 2,SARS-CoV-2,NEBNext,OAS-1
